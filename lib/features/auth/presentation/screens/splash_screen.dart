@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:logger/features/auth/presentation/screens/sign_in_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -19,7 +20,8 @@ class _SplashScreenState extends State<SplashScreen> {
     Navigator.pushReplacement(
       context,
       PageRouteBuilder(
-        pageBuilder: (context, animation, secondaryAnimation) => const SignInScreen(),
+        pageBuilder: (context, animation, secondaryAnimation) =>
+            const SignInScreen(),
         transitionsBuilder: (context, animation, secondaryAnimation, child) {
           return FadeTransition(opacity: animation, child: child);
         },
@@ -34,7 +36,11 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(Icons.chat_bubble_rounded, size: 100, color: Theme.of(context).colorScheme.primary),
+            Icon(
+              Icons.chat_bubble_rounded,
+              size: 100,
+              color: Theme.of(context).colorScheme.primary,
+            ),
             const SizedBox(height: 20),
             Text(
               'Messenger',

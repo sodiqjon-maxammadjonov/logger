@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'core/theme.dart';
+import 'features/auth/presentation/screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
