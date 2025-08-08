@@ -1,6 +1,34 @@
 import 'package:flutter/material.dart';
 import 'app_colors.dart';
 
+@immutable
+class CustomThemeExtension extends ThemeExtension<CustomThemeExtension> {
+  const CustomThemeExtension({
+    required this.todayVerseGradient,
+  });
+
+  final Gradient? todayVerseGradient;
+
+  @override
+  CustomThemeExtension copyWith({Gradient? todayVerseGradient}) {
+    return CustomThemeExtension(
+      todayVerseGradient: todayVerseGradient ?? this.todayVerseGradient,
+    );
+  }
+
+  @override
+  CustomThemeExtension lerp(CustomThemeExtension? other, double t) {
+    if (other is! CustomThemeExtension) {
+      return this;
+    }
+    return CustomThemeExtension(
+      todayVerseGradient: Gradient.lerp(todayVerseGradient, other.todayVerseGradient, t),
+    );
+  }
+}
+
+
+
 class AppTheme {
   static ThemeData get lightTheme => ThemeData(
     useMaterial3: true,
@@ -8,6 +36,13 @@ class AppTheme {
       seedColor: AppColors.seedColor,
       brightness: Brightness.light,
     ),
+
+    extensions: const <ThemeExtension<dynamic>>[
+      CustomThemeExtension(
+        todayVerseGradient: AppColors.goldGradient,
+      ),
+    ],
+
 
     appBarTheme: const AppBarTheme(
       centerTitle: true,
@@ -47,6 +82,12 @@ class AppTheme {
       seedColor: AppColors.seedColor,
       brightness: Brightness.dark,
     ),
+
+    extensions: const <ThemeExtension<dynamic>>[
+      CustomThemeExtension(
+        todayVerseGradient: AppColors.goldGradientDark,
+      ),
+    ],
 
     appBarTheme: const AppBarTheme(
       centerTitle: true,

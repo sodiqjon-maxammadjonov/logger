@@ -25,6 +25,15 @@ class AppColors {
     end: Alignment.bottomRight,
   );
 
+  static const goldGradientDark = LinearGradient(
+    colors: [
+      Color(0xFF8B6B4A),
+      Color(0xFF634A2F),
+    ],
+    begin: Alignment.topLeft,
+    end: Alignment.bottomRight,
+  );
+
   static const surface = Color(0xFFFFFBFE);
   static const surfaceDim = Color(0xFFF5F5F5);
   static const surfaceContainer = Color(0xFFE8F5E8);
