@@ -14,9 +14,9 @@ class HomeScreen extends ConsumerWidget {
     return Scaffold(
       body: CustomScrollView(
         slivers: [
-
           HomeSliverAppBar(),
 
+          // Yuqoridagi paddingli bo‘lim
           SliverToBoxAdapter(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20),
@@ -24,20 +24,20 @@ class HomeScreen extends ConsumerWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   ResponsiveSpacing.vLG,
-
                   TodayVerseCard(),
-
-                   ResponsiveSpacing.vXL,
-
+                  ResponsiveSpacing.vXL,
                   MainFeaturesSection(),
-
-                   ResponsiveSpacing.vXL,
-
-                  QuickActionsSection(),
-
                   ResponsiveSpacing.vXL,
                 ],
               ),
+            ),
+          ),
+          SliverToBoxAdapter(
+            child: Column(
+              children: [
+                QuickActionsSection(),
+                ResponsiveSpacing.vXL,
+              ],
             ),
           ),
         ],

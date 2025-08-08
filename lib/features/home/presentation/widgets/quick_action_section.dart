@@ -13,11 +13,14 @@ class QuickActionsSection extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(
-          'Tezkor harakatlar',
-          style: Theme.of(context).textTheme.titleLarge?.copyWith(
-            fontWeight: FontWeight.bold,
-            color: AppColors.deepGreen,
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 20.0),
+          child: Text(
+            'Tezkor harakatlar',
+            style: Theme.of(context).textTheme.titleLarge?.copyWith(
+              fontWeight: FontWeight.bold,
+              color: AppColors.deepGreen,
+            ),
           ),
         ),
         ResponsiveSpacing.vLG,
@@ -27,6 +30,7 @@ class QuickActionsSection extends StatelessWidget {
             scrollDirection: Axis.horizontal,
             physics: const BouncingScrollPhysics(),
             children: [
+              const SizedBox(width: 20),
               QuickActionCard(
                 title: 'Oxirgi o\'qigan',
                 icon: Icons.bookmark_added_rounded,
@@ -54,9 +58,11 @@ class QuickActionsSection extends StatelessWidget {
                 color: Colors.blue,
                 onTap: () {},
               ),
+              const SizedBox(width: 20),
             ],
           ),
         ),
+        SizedBox(height: 50),
       ],
     );
   }
