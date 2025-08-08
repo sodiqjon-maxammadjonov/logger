@@ -1,7 +1,9 @@
 // lib/features/home/widgets/feature_card.dart
 
 import 'package:flutter/material.dart';
+import '../../../../core/navigation/custom_page_route.dart';
 import '../../../../core/utils/responsive/responsive.dart';
+import '../../../surahs/screen/surahs_screen.dart';
 
 class FeatureCard extends StatelessWidget {
   final String title;
@@ -21,14 +23,13 @@ class FeatureCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('$title bo\'limi tez orada...')),
+        Navigator.of(context).push(
+          FadeSlidePageRoute(child: const SurahsScreen()),
         );
       },
       child: Container(
         padding: const EdgeInsets.all(16),
         decoration: BoxDecoration(
-          // Yorqin rangni yumshoqroq qilish uchun .shade100 dan foydalanamiz
           color: color.withOpacity(0.12),
           borderRadius: BorderRadius.circular(20),
         ),

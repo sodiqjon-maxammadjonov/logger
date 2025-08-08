@@ -14,9 +14,9 @@ class MainFeaturesSection extends StatelessWidget {
         Text(
           'Asosiy bo\'limlar',
           style: Theme.of(context).textTheme.titleLarge?.copyWith(
-            fontWeight: FontWeight.bold,
-            color: AppColors.deepGreen,
-          ),
+                fontWeight: FontWeight.bold,
+                color: AppColors.deepGreen,
+              ),
         ),
         ResponsiveSpacing.vLG,
         if (ResponsiveUtils.isMobile(context))
@@ -28,30 +28,59 @@ class MainFeaturesSection extends StatelessWidget {
   }
 
   Widget _buildMobileLayout(BuildContext context) {
-    // Bu joyda `FeatureCard` chaqiriladi
     return Column(
       children: [
         Row(
           children: [
-            const Expanded(child: FeatureCard(title: 'Qur\'on', icon: Icons.menu_book, subtitle: 'Al-Fatiha', color: AppColors.deepGreen)),
+            const Expanded(
+                child: FeatureCard(
+                    title: 'Qur\'on',
+                    icon: Icons.menu_book,
+                    subtitle: 'Al-Fatiha',
+                    color: AppColors.deepGreen,)),
             ResponsiveSpacing.hMD,
-            const Expanded(child: FeatureCard(title: 'Namaz', icon: Icons.access_time, subtitle: 'Vaqtlari', color: Colors.indigo)),
+            const Expanded(
+                child: FeatureCard(
+                    title: 'Namaz',
+                    icon: Icons.access_time,
+                    subtitle: 'Vaqtlari',
+                    color: Colors.indigo)),
           ],
         ),
         ResponsiveSpacing.vMD,
         Row(
           children: [
-            const Expanded(child: FeatureCard(title: 'Qibla', icon: Icons.explore, subtitle: 'Yo\'nalish', color: Colors.teal)),
+            const Expanded(
+                child: FeatureCard(
+                    title: 'Qibla',
+                    icon: Icons.explore,
+                    subtitle: 'Yo\'nalish',
+                    color: Colors.teal)),
             ResponsiveSpacing.hMD,
-            const Expanded(child: FeatureCard(title: 'Tasbih', icon: Icons.radio_button_checked, subtitle: 'Zikr', color: Colors.purple)),
+            const Expanded(
+                child: FeatureCard(
+                    title: 'Tasbih',
+                    icon: Icons.radio_button_checked,
+                    subtitle: 'Zikr',
+                    color: Colors.purple)),
           ],
         ),
         ResponsiveSpacing.vMD,
         Row(
           children: [
-            const Expanded(child: FeatureCard(title: 'Duo', icon: Icons.favorite, subtitle: 'Duolar', color: Colors.pink)),
+            const Expanded(
+                child: FeatureCard(
+                    title: 'Duo',
+                    icon: Icons.favorite,
+                    subtitle: 'Duolar',
+                    color: Colors.pink)),
             ResponsiveSpacing.hMD,
-            const Expanded(child: FeatureCard(title: 'Hadis', icon: Icons.format_quote, subtitle: 'Rivoyat', color: Colors.orange)),
+            const Expanded(
+                child: FeatureCard(
+                    title: 'Hadis',
+                    icon: Icons.format_quote,
+                    subtitle: 'Rivoyat',
+                    color: Colors.orange)),
           ],
         ),
       ],
@@ -67,12 +96,36 @@ class MainFeaturesSection extends StatelessWidget {
       mainAxisSpacing: 16,
       childAspectRatio: 1.1,
       children: const [
-        FeatureCard(title: 'Qur\'on', icon: Icons.menu_book, subtitle: 'Al-Fatiha', color: AppColors.deepGreen),
-        FeatureCard(title: 'Namaz', icon: Icons.access_time, subtitle: 'Vaqtlari', color: Colors.indigo),
-        FeatureCard(title: 'Qibla', icon: Icons.explore, subtitle: 'Yo\'nalish', color: Colors.teal),
-        FeatureCard(title: 'Tasbih', icon: Icons.radio_button_checked, subtitle: 'Zikr', color: Colors.purple),
-        FeatureCard(title: 'Duo', icon: Icons.favorite, subtitle: 'Duolar', color: Colors.pink),
-        FeatureCard(title: 'Hadis', icon: Icons.format_quote, subtitle: 'Rivoyat', color: Colors.orange),
+        FeatureCard(
+            title: 'Qur\'on',
+            icon: Icons.menu_book,
+            subtitle: 'Al-Fatiha',
+            color: AppColors.deepGreen),
+        FeatureCard(
+            title: 'Namaz',
+            icon: Icons.access_time,
+            subtitle: 'Vaqtlari',
+            color: Colors.indigo),
+        FeatureCard(
+            title: 'Qibla',
+            icon: Icons.explore,
+            subtitle: 'Yo\'nalish',
+            color: Colors.teal),
+        FeatureCard(
+            title: 'Tasbih',
+            icon: Icons.radio_button_checked,
+            subtitle: 'Zikr',
+            color: Colors.purple),
+        FeatureCard(
+            title: 'Duo',
+            icon: Icons.favorite,
+            subtitle: 'Duolar',
+            color: Colors.pink),
+        FeatureCard(
+            title: 'Hadis',
+            icon: Icons.format_quote,
+            subtitle: 'Rivoyat',
+            color: Colors.orange),
       ],
     );
   }
