@@ -9,14 +9,12 @@ class AppTheme {
       brightness: Brightness.light,
     ),
 
-    // AppBar theme
     appBarTheme: const AppBarTheme(
       centerTitle: true,
       elevation: 0,
       scrolledUnderElevation: 1,
     ),
 
-    // Card theme
     cardTheme: CardThemeData(
       elevation: 2,
       shape: RoundedRectangleBorder(
@@ -25,7 +23,6 @@ class AppTheme {
       surfaceTintColor: AppColors.surface,
     ),
 
-    // Button themes
     filledButtonTheme: FilledButtonThemeData(
       style: FilledButton.styleFrom(
         shape: RoundedRectangleBorder(
@@ -35,7 +32,6 @@ class AppTheme {
       ),
     ),
 
-    // Input decoration
     inputDecorationTheme: InputDecorationTheme(
       border: OutlineInputBorder(
         borderRadius: BorderRadius.circular(12),
