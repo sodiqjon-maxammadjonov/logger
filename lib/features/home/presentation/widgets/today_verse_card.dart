@@ -7,70 +7,75 @@ class TodayVerseCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      width: double.infinity,
-      padding: const EdgeInsets.all(20),
+    return DecoratedBox(
       decoration: BoxDecoration(
         gradient: AppColors.goldGradient,
-        borderRadius: BorderRadius.circular(20),
-        boxShadow: [
-          BoxShadow(
-            color: AppColors.goldAccent.withValues(alpha: 0.3),
-            blurRadius: 15,
-            offset: const Offset(0, 5),
-          ),
-        ],
+        borderRadius: BorderRadius.circular(24),
+        border:
+            Border.all(color: Colors.white.withValues(alpha: 0.2), width: 1),
       ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.center,
-        children: [
-          Row(
-            children: [
-              const Icon(Icons.auto_awesome, color: Colors.white, size: 20),
-              const SizedBox(width: 8),
-              const Text(
-                'Bugungi oyat',
-                style: TextStyle(
-                  color: Colors.white,
-                  fontSize: 16,
-                  fontWeight: FontWeight.w600,
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 24),
+        child: Column(
+          children: [
+            // 1. Sarlavha qismi
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                const Icon(Icons.auto_awesome_rounded,
+                    color: Colors.white, size: 20),
+                ResponsiveSpacing.hSM,
+                Text(
+                  'Bugungi oyat',
+                  style: TextStyle(
+                    color: Colors.white.withValues(alpha: 0.8),
+                    fontSize: 16,
+                    fontWeight: FontWeight.w600,
+                  ),
                 ),
+              ],
+            ),
+
+            ResponsiveSpacing.vLG,
+            const Text(
+              'وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ',
+              style: TextStyle(
+                fontFamily: 'Amiri',
+                color: Colors.white,
+                fontSize: 22,
+                fontWeight: FontWeight.bold,
+                height: 1.9,
               ),
-            ],
-          ),
-          ResponsiveSpacing.vMD,
-          const Text(
-            'وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ',
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 20,
-              fontWeight: FontWeight.w500,
-              height: 1.8,
+              textAlign: TextAlign.center,
+              textDirection: TextDirection.rtl,
             ),
-            textAlign: TextAlign.center,
-            textDirection: TextDirection.rtl,
-          ),
-          ResponsiveSpacing.vMD,
-          Text(
-            'Mening muvaffaqiyatim faqat Allah tomon. Men Unga tavakkal qildim va Unga qaytaman.',
-            style: TextStyle(
-              color: Colors.white.withValues(alpha: 0.95),
-              fontSize: 14,
-              fontStyle: FontStyle.italic,
-              height: 1.5,
+
+            ResponsiveSpacing.vMD,
+
+            Text(
+              '“Mening muvaffaqiyatim faqat Allohning yordami bilangadir. Ungagina tavakkal qildim va Ungagina murojaat qilurman”',
+              // Tirnoqlar bilan
+              style: TextStyle(
+                color: Colors.white.withOpacity(0.95),
+                fontSize: 14,
+                fontStyle: FontStyle.italic,
+                height: 1.6,
+              ),
+              textAlign: TextAlign.center,
             ),
-            textAlign: TextAlign.center,
-          ),
-          ResponsiveSpacing.vSM,
-          Text(
-            'Hud surasi, 88-oyat',
-            style: TextStyle(
-              color: Colors.white.withValues(alpha: 0.8),
-              fontSize: 12,
-              fontWeight: FontWeight.w500,
+
+            ResponsiveSpacing.vSM,
+
+            Text(
+              'Hud surasi, 88-oyat',
+              style: TextStyle(
+                color: Colors.white.withValues(alpha: 0.7),
+                fontSize: 12,
+                fontWeight: FontWeight.w500,
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }

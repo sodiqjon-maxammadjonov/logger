@@ -13,7 +13,6 @@ class SplashScreen extends ConsumerStatefulWidget {
 
 class _SplashScreenState extends ConsumerState<SplashScreen>
     with TickerProviderStateMixin {
-
   late AnimationController _animationController;
   late AnimationController _textController;
   late Animation<double> _fadeAnimation;
@@ -34,39 +33,36 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
       vsync: this,
     );
 
-    _fadeAnimation = Tween<double>(
-      begin: 0.0,
-      end: 1.0,
-    ).animate(CurvedAnimation(
-      parent: _animationController,
-      curve: const Interval(0.0, 0.6, curve: Curves.easeInOut),
-    ));
+    _fadeAnimation = Tween<double>(begin: 0.0, end: 1.0).animate(
+      CurvedAnimation(
+        parent: _animationController,
+        curve: const Interval(0.0, 0.6, curve: Curves.easeInOut),
+      ),
+    );
 
-    _scaleAnimation = Tween<double>(
-      begin: 0.5,
-      end: 1.0,
-    ).animate(CurvedAnimation(
-      parent: _animationController,
-      curve: const Interval(0.0, 0.8, curve: Curves.elasticOut),
-    ));
+    _scaleAnimation = Tween<double>(begin: 0.5, end: 1.0).animate(
+      CurvedAnimation(
+        parent: _animationController,
+        curve: const Interval(0.0, 0.8, curve: Curves.elasticOut),
+      ),
+    );
 
-    _textAnimation = Tween<double>(
-      begin: 0.0,
-      end: 1.0,
-    ).animate(CurvedAnimation(
-      parent: _textController,
-      curve: Curves.easeInOut,
-    ));
+    _textAnimation = Tween<double>(begin: 0.0, end: 1.0).animate(
+      CurvedAnimation(
+        parent: _textController,
+        curve: Curves.easeInOut,
+      ),
+    );
 
     _startAnimation();
   }
 
-  void _startAnimation() async {
+  Future<void> _startAnimation() async {
     await _animationController.forward();
     await Future.delayed(const Duration(milliseconds: 300));
     await _textController.forward();
 
-    // 3 soniya kutib home screenga o'tish
+    // 3 soniya kutib, silliq fade bilan HomeScreen’ga o‘tish
     await Future.delayed(const Duration(seconds: 2));
 
     if (mounted) {
@@ -76,21 +72,9 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
           pageBuilder: (context, animation, secondaryAnimation) =>
           const HomeScreen(),
           transitionsBuilder: (context, animation, secondaryAnimation, child) {
-            return FadeTransition(
-              opacity: animation,
-              child: SlideTransition(
-                position: Tween<Offset>(
-                  begin: const Offset(1.0, 0.0),
-                  end: Offset.zero,
-                ).animate(CurvedAnimation(
-                  parent: animation,
-                  curve: Curves.easeInOutCubic,
-                )),
-                child: child,
-              ),
-            );
+            return FadeTransition(opacity: animation, child: child);
           },
-          transitionDuration: const Duration(milliseconds: 1000),
+          transitionDuration: const Duration(milliseconds: 500),
         ),
       );
     }
@@ -113,7 +97,7 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
         child: SafeArea(
           child: Column(
             children: [
-              // Yuqoridagi qism - Logo va Bismillah
+              // Yuqoridagi qism - Logo va App nomi
               Expanded(
                 flex: 3,
                 child: Center(
@@ -127,24 +111,16 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              // Qur'on belgisi
                               Container(
                                 width: 120,
                                 height: 120,
                                 decoration: BoxDecoration(
-                                  color: Colors.white.withValues(alpha: 0.15),
+                                  color: Colors.white.withOpacity(0.15),
                                   borderRadius: BorderRadius.circular(30),
                                   border: Border.all(
-                                    color: Colors.white.withValues(alpha: 0.3),
+                                    color: Colors.white.withOpacity(0.3),
                                     width: 2,
                                   ),
-                                  boxShadow: [
-                                    BoxShadow(
-                                      color: Colors.black.withValues(alpha: 0.1),
-                                      blurRadius: 20,
-                                      offset: const Offset(0, 10),
-                                    ),
-                                  ],
                                 ),
                                 child: const Icon(
                                   Icons.menu_book,
@@ -152,10 +128,7 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                                   color: Colors.white,
                                 ),
                               ),
-
                               ResponsiveSpacing.vLG,
-
-                              // App nomi
                               const Text(
                                 'Qur\'oni Karim',
                                 style: TextStyle(
@@ -163,25 +136,14 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                                   fontSize: 32,
                                   fontWeight: FontWeight.bold,
                                   letterSpacing: 1.5,
-                                  shadows: [
-                                    Shadow(
-                                      color: Colors.black26,
-                                      offset: Offset(0, 2),
-                                      blurRadius: 4,
-                                    ),
-                                  ],
                                 ),
                               ),
-
                               ResponsiveSpacing.vSM,
-
                               Text(
                                 'Mukammal Islomiy Ilova',
                                 style: TextStyle(
-                                  color: Colors.white.withValues(alpha: 0.9),
+                                  color: Colors.white.withOpacity(0.9),
                                   fontSize: 16,
-                                  fontWeight: FontWeight.w400,
-                                  letterSpacing: 0.5,
                                 ),
                               ),
                             ],
@@ -211,17 +173,16 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                             margin: const EdgeInsets.symmetric(horizontal: 32),
                             padding: const EdgeInsets.all(24),
                             decoration: BoxDecoration(
-                              color: Colors.white.withValues(alpha: 0.1),
+                              color: Colors.white.withOpacity(0.1),
                               borderRadius: BorderRadius.circular(20),
                               border: Border.all(
-                                color: Colors.white.withValues(alpha: 0.2),
+                                color: Colors.white.withOpacity(0.2),
                                 width: 1,
                               ),
                             ),
                             child: Column(
                               mainAxisSize: MainAxisSize.min,
                               children: [
-                                // Bismillah arabcha
                                 const Text(
                                   'بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ',
                                   style: TextStyle(
@@ -233,16 +194,12 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                                   textAlign: TextAlign.center,
                                   textDirection: TextDirection.rtl,
                                 ),
-
                                 ResponsiveSpacing.vMD,
-
-                                // Bismillah tarjimasi
                                 Text(
                                   'Mehribon va rahmli Allah nomi bilan',
                                   style: TextStyle(
-                                    color: Colors.white.withValues(alpha: 0.9),
+                                    color: Colors.white.withOpacity(0.9),
                                     fontSize: 16,
-                                    fontWeight: FontWeight.w400,
                                     fontStyle: FontStyle.italic,
                                   ),
                                   textAlign: TextAlign.center,
@@ -270,7 +227,7 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                         child: CircularProgressIndicator(
                           strokeWidth: 2,
                           valueColor: AlwaysStoppedAnimation<Color>(
-                            Colors.white.withValues(alpha: 0.8),
+                            Colors.white.withOpacity(0.8),
                           ),
                         ),
                       ),
@@ -278,9 +235,8 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                       Text(
                         'Yuklanmoqda...',
                         style: TextStyle(
-                          color: Colors.white.withValues(alpha: 0.7),
+                          color: Colors.white.withOpacity(0.7),
                           fontSize: 14,
-                          fontWeight: FontWeight.w300,
                         ),
                       ),
                     ],

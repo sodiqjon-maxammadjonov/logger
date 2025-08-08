@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Clean Architecture 2025',
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
-      themeMode: ThemeMode.system,
+      themeMode: ThemeMode.dark,
       home: const SplashScreen(),
       debugShowCheckedModeBanner: false,
     );
