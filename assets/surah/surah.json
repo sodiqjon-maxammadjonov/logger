@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 1,
+    "nomi_lotin": "Al-Fatiha",
+    "nomi_arab": "ٱلْفَاتِحَة",
+    "oyatlar_soni": 7,
+    "joyi": "Makkiy",
+    "tartib_raqami": 5,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Payg'ambarlikning ilk yillarida nozil bo'lgan. Qur'onning 'ochuvchisi' bo'lib, namozning har bir rakatida o'qiladi. U Allohga hamd va yolg'iz Unga ibodat qilish haqidadir. Yana bir nomi 'Ummul Kitob' (Kitobning onasi)."
+  },
+  {
+    "id": 2,
+    "nomi_lotin": "Al-Baqara",
+    "nomi_arab": "البَقَرَة",
+    "oyatlar_soni": 286,
+    "joyi": "Madaniy",
+    "tartib_raqami": 87,
+    "haqida": "**Nozil bo'lish davri:** Madina davrining boshida, hijratning ilk yillarida (hijriy 1-2 yillar) nozil bo'lishni boshlagan va bir necha yil davomida nozil bo'lgan. Ba'zi oyatlari (masalan, 281-oyat) Payg'ambarimiz vafotlaridan sal oldin nozil bo'lgan. Qur'ondagi eng uzun sura. Ma'nosi 'Sigir'. Unda islomiy jamiyat qonun-qoidalari, iymon arkonlari va oilaviy munosabatlar yoritilgan. Mashhur 'Oyatul Kursiy' shu surada (255-oyat)."
+  },
+  {
+    "id": 3,
+    "nomi_lotin": "Aal-E-Imran",
+    "nomi_arab": "آلِ عِمْرَان",
+    "oyatlar_soni": 200,
+    "joyi": "Madaniy",
+    "tartib_raqami": 89,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, taxminan hijriy 3-yilda, Uhud jangidan keyingi voqealar munosabati bilan nozil bo'lgan. Ma'nosi 'Imron oilasi'. Unda Nasroniylik bilan muloqot, Uhud jangidan saboqlar hamda Iso va Maryam haqida so'z yuritiladi."
+  },
+  {
+    "id": 4,
+    "nomi_lotin": "An-Nisa",
+    "nomi_arab": "النِّسَاء",
+    "oyatlar_soni": 176,
+    "joyi": "Madaniy",
+    "tartib_raqami": 92,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, Uhud jangidan keyin (taxminan hijriy 3-4 yillarda) nozil bo'lgan. Ma'nosi 'Ayollar'. Janglarda erkaklar shahid bo'lganidan so'ng yuzaga kelgan ijtimoiy masalalarga javoban, ayollarning haqlari, oila, nikoh va meros masalalarini tartibga soladi."
+  },
+  {
+    "id": 5,
+    "nomi_lotin": "Al-Ma'idah",
+    "nomi_arab": "المَائـِدَة",
+    "oyatlar_soni": 120,
+    "joyi": "Madaniy",
+    "tartib_raqami": 112,
+    "haqida": "**Nozil bo'lish davri:** Madina davrining oxirlarida, Hudaybiya sulhidan keyin (hijriy 6-7 yillar) nozil bo'lgan. Eng oxirgi nozil bo'lgan suralardan hisoblanadi. Ma'nosi 'Dasturxon'. Unda ahdga vafo qilish, halol va harom masalalari hamda dinning mukammal bo'lgani haqida so'z boradi."
+  },
+  {
+    "id": 6,
+    "nomi_lotin": "Al-An'am",
+    "nomi_arab": "الأَنْعَام",
+    "oyatlar_soni": 165,
+    "joyi": "Makkiy",
+    "tartib_raqami": 55,
+    "haqida": "**Nozil bo'lish davri:** Makka davrining oxirgi yillarida, hijratdan biroz oldin, bir kechada to'liq nozil bo'lgani rivoyat qilinadi. Ma'nosi 'Chorva mollari'. Islomning asosiy aqidaviy masalalari – Allohning yagonaligi, shirkni inkor etishga bag'ishlangan."
+  },
+  {
+    "id": 7,
+    "nomi_lotin": "Al-A'raf",
+    "nomi_arab": "الأَعْرَاف",
+    "oyatlar_soni": 206,
+    "joyi": "Makkiy",
+    "tartib_raqami": 39,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Jannat bilan do'zax o'rtasidagi devor'. Odam, Nuh, Hud, Solih kabi payg'ambarlarning qissalari orqali iymon va kufr o'rtasidagi kurash tasvirlanadi."
+  },
+  {
+    "id": 8,
+    "nomi_lotin": "Al-Anfal",
+    "nomi_arab": "الأَنْفَال",
+    "oyatlar_soni": 75,
+    "joyi": "Madaniy",
+    "tartib_raqami": 88,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, hijriy 2-yilda, Badr jangidan so'ng darhol nozil bo'lgan. Ma'nosi 'O'ljalar'. Jang voqealari, o'ljalarni taqsimlash qoidalari va mo'minlarning sifatlari haqida so'z boradi."
+  },
+  {
+    "id": 9,
+    "nomi_lotin": "At-Tawbah",
+    "nomi_arab": "التَّوْبَة",
+    "oyatlar_soni": 129,
+    "joyi": "Madaniy",
+    "tartib_raqami": 113,
+    "haqida": "**Nozil bo'lish davri:** Madina davrining eng oxirlarida, hijriy 9-yilda Tabuk g'azotidan keyin nozil bo'lgan. Ma'nosi 'Tavba'. Qur'onda 'Bismillah' bilan boshlanmaydigan yagona sura. Unda mushriklar bilan munosabatlarni uzish va munofiqlar fosh qilinishi bayon qilingan."
+  },
+  {
+    "id": 10,
+    "nomi_lotin": "Yunus",
+    "nomi_arab": "يُونُس",
+    "oyatlar_soni": 109,
+    "joyi": "Makkiy",
+    "tartib_raqami": 51,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Yunus payg'ambar nomi bilan atalgan. Vahiyning haqligi, Allohning qudrati va hikmati, Nuh va Muso payg'ambarlar qissalari keltirilgan."
+  },
+  {
+    "id": 11,
+    "nomi_lotin": "Hud",
+    "nomi_arab": "هُود",
+    "oyatlar_soni": 123,
+    "joyi": "Makkiy",
+    "tartib_raqami": 52,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri, musulmonlar qattiq zulm ostida bo'lgan bir paytda tasalli sifatida nozil bo'lgan. Hud payg'ambar nomi bilan atalgan. Payg'ambarlar qissalari orqali iymonda sobit turishga undaydi."
+  },
+  {
+    "id": 12,
+    "nomi_lotin": "Yusuf",
+    "nomi_arab": "يُوسُف",
+    "oyatlar_soni": 111,
+    "joyi": "Makkiy",
+    "tartib_raqami": 53,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davrida, 'Mahzunlik yili'da (Payg'ambarimiz amakilari Abu Tolib va ayollari Xadicha vafot etgan yili) tasalli sifatida nozil bo'lgan. Yusuf payg'ambarning hayotini to'liq bayon qiladi."
+  },
+  {
+    "id": 13,
+    "nomi_lotin": "Ar-Ra'd",
+    "nomi_arab": "الرَّعْد",
+    "oyatlar_soni": 43,
+    "joyi": "Madaniy",
+    "tartib_raqami": 96,
+    "haqida": "**Nozil bo'lish davri:** Nozil bo'lgan joyi (Makkiy yoki Madaniy) borasida ixtiloflar mavjud, lekin ko'pchilik uni Madaniy sura deb biladi. Ma'nosi 'Momaqaldiroq'. Haq va botil o'rtasidagi farq, Allohning qudrati va vahiyning haqligi haqida so'z boradi."
+  },
+  {
+    "id": 14,
+    "nomi_lotin": "Ibrahim",
+    "nomi_arab": "إبراهيم",
+    "oyatlar_soni": 52,
+    "joyi": "Makkiy",
+    "tartib_raqami": 72,
+    "haqida": "**Nozil bo'lish davri:** Kechki Makka davri. Ibrohim payg'ambar nomi bilan atalgan. U zotning duolari, tavhidga chaqirig'i, shukr va kufr oqibatlari haqida hikoya qiladi."
+  },
+  {
+    "id": 15,
+    "nomi_lotin": "Al-Hijr",
+    "nomi_arab": "الحِجْر",
+    "oyatlar_soni": 99,
+    "joyi": "Makkiy",
+    "tartib_raqami": 54,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Hijr vodiysida yashagan Solih payg'ambarning qavmi (Samud) haqida so'z boradi. Qur'onning ilohiy himoyada ekani bayon qilinadi."
+  },
+  {
+    "id": 16,
+    "nomi_lotin": "An-Nahl",
+    "nomi_arab": "النَّحْل",
+    "oyatlar_soni": 128,
+    "joyi": "Makkiy",
+    "tartib_raqami": 70,
+    "haqida": "**Nozil bo'lish davri:** Kechki Makka davri, hijrat oldidan nozil bo'lgan. Ma'nosi 'Asalari'. Allohning ne'matlari, jumladan asalarilar orqali beriladigan shifo haqida zikr qilinadi."
+  },
+  {
+    "id": 17,
+    "nomi_lotin": "Al-Isra",
+    "nomi_arab": "الإسْرَاء",
+    "oyatlar_soni": 111,
+    "joyi": "Makkiy",
+    "tartib_raqami": 50,
+    "haqida": "**Nozil bo'lish davri:** Kechki Makka davri, hijratdan taxminan bir yil oldin. Sura Payg'ambarimizning Makkadan Quddusga tungi sayohatlari (Isro) voqeasi bilan boshlanadi."
+  },
+  {
+    "id": 18,
+    "nomi_lotin": "Al-Kahf",
+    "nomi_arab": "الكَهْف",
+    "oyatlar_soni": 110,
+    "joyi": "Makkiy",
+    "tartib_raqami": 69,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'G'or'. Unda Ashobul Kahf, ikki bog' egasi, Muso va Xizr hamda Zulqarnayn qissalari keltiriladi."
+  },
+  {
+    "id": 19,
+    "nomi_lotin": "Maryam",
+    "nomi_arab": "مَرْيَم",
+    "oyatlar_soni": 98,
+    "joyi": "Makkiy",
+    "tartib_raqami": 44,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Bir guruh musulmonlar Habashistonga (Efiopiya) hijrat qilgan paytda nozil bo'lgan. Ja'far ibn Abu Tolib bu surani Habashiston podshohi Najoshiyga o'qib bergan."
+  },
+  {
+    "id": 20,
+    "nomi_lotin": "Taha",
+    "nomi_arab": "طه",
+    "oyatlar_soni": 135,
+    "joyi": "Makkiy",
+    "tartib_raqami": 45,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Umar ibn Xattobning Islomni qabul qilishiga shu surani eshitishi sabab bo'lgan deb rivoyat qilinadi. Muso payg'ambar qissasiga keng o'rin berilgan."
+  },
+  {
+    "id": 21,
+    "nomi_lotin": "Al-Anbiya",
+    "nomi_arab": "الأَنْبِيَاء",
+    "oyatlar_soni": 112,
+    "joyi": "Makkiy",
+    "tartib_raqami": 73,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Payg'ambarlar'. Ko'plab payg'ambarlar zikr qilinib, ularning da'vatidagi umumiylik ko'rsatiladi."
+  },
+  {
+    "id": 22,
+    "nomi_lotin": "Al-Hajj",
+    "nomi_arab": "الحَجّ",
+    "oyatlar_soni": 78,
+    "joyi": "Aralash",
+    "tartib_raqami": 103,
+    "haqida": "**Nozil bo'lish davri:** Makkiy va Madaniy oyatlarni o'z ichiga olgan noyob sura. Asosiy qismi Makka davrining oxirlarida, hajga oid oyatlari esa Madina davrida nozil bo'lgan. Ma'nosi 'Haj'. Qiyomat, haj va qurbonlik masalalari yoritilgan."
+  },
+  {
+    "id": 23,
+    "nomi_lotin": "Al-Mu'minun",
+    "nomi_arab": "المُؤْمِنُون",
+    "oyatlar_soni": 118,
+    "joyi": "Makkiy",
+    "tartib_raqami": 74,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Mo'minlar'. Najot topuvchi mo'minlarning sifatlari (namozda xushu', bekorchi ishlardan yuz o'girish) bilan boshlanadi."
+  },
+  {
+    "id": 24,
+    "nomi_lotin": "An-Nur",
+    "nomi_arab": "النُّور",
+    "oyatlar_soni": 64,
+    "joyi": "Madaniy",
+    "tartib_raqami": 102,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, taxminan hijriy 5-6 yillarda, 'Ifk' (Oisha onamizga qilingan tuhmat) voqeasidan so'ng nozil bo'lgan. Ma'nosi 'Nur'. Jamiyat axloqi, iffat, zinoning jazosi va hijob masalalarini yoritadi."
+  },
+  {
+    "id": 25,
+    "nomi_lotin": "Al-Furqan",
+    "nomi_arab": "الفُرْقَان",
+    "oyatlar_soni": 77,
+    "joyi": "Makkiy",
+    "tartib_raqami": 42,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. 'Furqon' (haq bilan botilni ajratuvchi) Qur'onning nomlaridan biri. Mushriklarning Payg'ambarimizga qo'ygan ayblariga javoblar beriladi."
+  },
+  {
+    "id": 26,
+    "nomi_lotin": "Ash-Shu'ara",
+    "nomi_arab": "الشُّعَرَاء",
+    "oyatlar_soni": 227,
+    "joyi": "Makkiy",
+    "tartib_raqami": 47,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Shoirlar'. Payg'ambarlar qissalari orqali vahiyning haqligini isbotlaydi. Oxirida yaxshi va yomon shoirlarni farqlaydi."
+  },
+  {
+    "id": 27,
+    "nomi_lotin": "An-Naml",
+    "nomi_arab": "النَّمْل",
+    "oyatlar_soni": 93,
+    "joyi": "Makkiy",
+    "tartib_raqami": 48,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Chumoli'. Sulaymon payg'ambarning chumolilar vodiysidan o'tishi va Saba' malikasi Bilqis bilan bo'lgan muloqoti hikoya qilinadi."
+  },
+  {
+    "id": 28,
+    "nomi_lotin": "Al-Qasas",
+    "nomi_arab": "القَصَص",
+    "oyatlar_soni": 88,
+    "joyi": "Makkiy",
+    "tartib_raqami": 49,
+    "haqida": "**Nozil bo'lish davri:** O'rta va kechki Makka davri. Ma'nosi 'Qissa'. Muso payg'ambarning tug'ilishidan to payg'ambar bo'lishigacha bo'lgan davrni batafsil hikoya qiladi."
+  },
+  {
+    "id": 29,
+    "nomi_lotin": "Al-Ankabut",
+    "nomi_arab": "العَنْكَبُوت",
+    "oyatlar_soni": 69,
+    "joyi": "Makkiy",
+    "tartib_raqami": 85,
+    "haqida": "**Nozil bo'lish davri:** Kechki Makka davri. Ilk oyatlari Madinaga hijrat qilayotgan qiynoqqa uchragan musulmonlarga tasalli uchun nozil bo'lgan. Ma'nosi 'O'rgimchak'. Iymon sinov bilan kelishi haqida so'z boradi."
+  },
+  {
+    "id": 30,
+    "nomi_lotin": "Ar-Rum",
+    "nomi_arab": "الرُّوم",
+    "oyatlar_soni": 60,
+    "joyi": "Makkiy",
+    "tartib_raqami": 84,
+    "haqida": "**Nozil bo'lish davri:** Kechki Makka davri. Ma'nosi 'Rumliklar'. Forslar tomonidan mag'lub etilgan Vizantiyaning yaqin yillarda g'alaba qozonishi haqidagi bashorat keltirilgan va bu mo'jiza yuz bergan."
+  },
+  {
+    "id": 31,
+    "nomi_lotin": "Luqman",
+    "nomi_arab": "لُقْمَان",
+    "oyatlar_soni": 34,
+    "joyi": "Makkiy",
+    "tartib_raqami": 57,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Luqmoni Hakimning o'g'liga qilgan pand-nasihatlari orqali yuksak axloqiy me'yorlar (shirk keltirmaslik, ota-onani hurmat qilish) bayon qilinadi."
+  },
+  {
+    "id": 32,
+    "nomi_lotin": "As-Sajda",
+    "nomi_arab": "السَّجْدَة",
+    "oyatlar_soni": 30,
+    "joyi": "Makkiy",
+    "tartib_raqami": 75,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Sajda'. Sura ichida sajda oyati borligi uchun shunday nomlangan. Qiyomat va qayta tirilishga ishonishga da'vat etiladi."
+  },
+  {
+    "id": 33,
+    "nomi_lotin": "Al-Ahzab",
+    "nomi_arab": "الأَحْزَاب",
+    "oyatlar_soni": 73,
+    "joyi": "Madaniy",
+    "tartib_raqami": 90,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, hijriy 5-yilda, Xandaq (Ahzob) jangi paytida va undan keyin nozil bo'lgan. Ma'nosi 'Firqalar'. Bu jang voqealari va Payg'ambarimiz oilasiga oid ba'zi hukmlarni o'z ichiga oladi."
+  },
+  {
+    "id": 34,
+    "nomi_lotin": "Saba'",
+    "nomi_arab": "سَبَأ",
+    "oyatlar_soni": 54,
+    "joyi": "Makkiy",
+    "tartib_raqami": 58,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Yaman hududidagi qadimiy Saba' yurti haqida. Shukr qiluvchi (Sulaymon) va noshukr qavmlarning (Saba' ahlining) oqibati qiyoslanadi."
+  },
+  {
+    "id": 35,
+    "nomi_lotin": "Fatir",
+    "nomi_arab": "فَاطِر",
+    "oyatlar_soni": 45,
+    "joyi": "Makkiy",
+    "tartib_raqami": 43,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Yaratuvchi'. Allohning osmonlar va yerni mislsiz yaratuvchisi ekanligi, farishtalar va ularning vazifalari haqida so'z yuritiladi."
+  },
+  {
+    "id": 36,
+    "nomi_lotin": "Ya-Sin",
+    "nomi_arab": "يس",
+    "oyatlar_soni": 83,
+    "joyi": "Makkiy",
+    "tartib_raqami": 41,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. 'Qur'onning yuragi' deb ataladi. Qayta tirilish, jannat va do'zax tasvirlari hamda payg'ambarlar yuborilgan qishloq ahlining qissasi keltiriladi."
+  },
+  {
+    "id": 37,
+    "nomi_lotin": "As-Saffat",
+    "nomi_arab": "الصَّافَّات",
+    "oyatlar_soni": 182,
+    "joyi": "Makkiy",
+    "tartib_raqami": 56,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Saf tortuvchilar' (farishtalar). Payg'ambarlar qissalari (ayniqsa Ibrohim va Ismoil qissasi) orqali tavhidga chaqiradi."
+  },
+  {
+    "id": 38,
+    "nomi_lotin": "Sad",
+    "nomi_arab": "ص",
+    "oyatlar_soni": 88,
+    "joyi": "Makkiy",
+    "tartib_raqami": 38,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Quraysh zodagonlari Payg'ambarimizni rad etgan bir paytda nozil bo'lgan. Dovud, Sulaymon va Ayyub payg'ambarlar qissalari zikr qilingan."
+  },
+  {
+    "id": 39,
+    "nomi_lotin": "Az-Zumar",
+    "nomi_arab": "الزُّمَر",
+    "oyatlar_soni": 75,
+    "joyi": "Makkiy",
+    "tartib_raqami": 59,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Guruhlar'. Qiyomat kuni odamlarning guruh-guruh bo'lib jannat yoki do'zaxga olib borilishi tasvirlanadi. Tavhidga kuchli da'vat bor."
+  },
+  {
+    "id": 40,
+    "nomi_lotin": "Ghafir",
+    "nomi_arab": "غَافِر",
+    "oyatlar_soni": 85,
+    "joyi": "Makkiy",
+    "tartib_raqami": 60,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Gunohlarni kechiruvchi'. Fir'avn oilasidan bo'lgan mo'min kishining qissasi orqali haqqa da'vat qilish muhimligi ta'kidlanadi."
+  },
+  {
+    "id": 41,
+    "nomi_lotin": "Fussilat",
+    "nomi_arab": "فُصِّلَت",
+    "oyatlar_soni": 54,
+    "joyi": "Makkiy",
+    "tartib_raqami": 61,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Mufassal bayon qilingan'. Qur'onning ilohiy mo'jiza ekanligi, uning arab tilida ekani va odamlarga da'vat yetkazish usullari haqida so'z boradi."
+  },
+  {
+    "id": 42,
+    "nomi_lotin": "Ash-Shura",
+    "nomi_arab": "الشُّرَى",
+    "oyatlar_soni": 53,
+    "joyi": "Makkiy",
+    "tartib_raqami": 62,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Maslahat', 'Kengash'. Musulmonlar o'z ishlarini o'zaro maslahat bilan qilishlari lozimligi ta'kidlanadi."
+  },
+  {
+    "id": 43,
+    "nomi_lotin": "Az-Zukhruf",
+    "nomi_arab": "الزُّخْرُف",
+    "oyatlar_soni": 89,
+    "joyi": "Makkiy",
+    "tartib_raqami": 63,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Bezak', 'Zebu-ziynat'. Bu dunyoning o'tkinchi bezaklariga aldanmaslikka chaqiriladi."
+  },
+  {
+    "id": 44,
+    "nomi_lotin": "Ad-Dukhan",
+    "nomi_arab": "الدُّخَان",
+    "oyatlar_soni": 59,
+    "joyi": "Makkiy",
+    "tartib_raqami": 64,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Tutun'. Qiyomatning alomatlaridan biri bo'lgan tutun haqida ogohlantiriladi."
+  },
+  {
+    "id": 45,
+    "nomi_lotin": "Al-Jathiyah",
+    "nomi_arab": "الجاثِيَة",
+    "oyatlar_soni": 37,
+    "joyi": "Makkiy",
+    "tartib_raqami": 65,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Tiz cho'kuvchilar'. Qiyomat kuni har bir ummat o'z nomai a'molini olish uchun tiz cho'kib turishi tasvirlanadi."
+  },
+  {
+    "id": 46,
+    "nomi_lotin": "Al-Ahqaf",
+    "nomi_arab": "الأَحْقَاف",
+    "oyatlar_soni": 35,
+    "joyi": "Makkiy",
+    "tartib_raqami": 66,
+    "haqida": "**Nozil bo'lish davri:** Kechki Makka davri. 'Ahqof' – Arabiston yarim orolidagi qumtepaliklar. Hud payg'ambar qavmi yashagan joy. Bir guruh jinlar Qur'on eshitib iymon keltirgani haqida hikoya bor."
+  },
+  {
+    "id": 47,
+    "nomi_lotin": "Muhammad",
+    "nomi_arab": "مُحَمَّد",
+    "oyatlar_soni": 38,
+    "joyi": "Madaniy",
+    "tartib_raqami": 95,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, hijratning ilk yillarida nozil bo'lgan. Sura iymon keltirganlar bilan kufr keltirganlar orasidagi farq va urush (qitol) hukmlariga bag'ishlangan."
+  },
+  {
+    "id": 48,
+    "nomi_lotin": "Al-Fath",
+    "nomi_arab": "الفَتْح",
+    "oyatlar_soni": 29,
+    "joyi": "Madaniy",
+    "tartib_raqami": 111,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, hijriy 6-yilda, Hudaybiya sulhi tuzilib, musulmonlar umradan qaytayotgan paytda nozil bo'lgan. Ma'nosi 'G'alaba'. Bu sulhni ochiq-oydin g'alaba deb ataydi."
+  },
+  {
+    "id": 49,
+    "nomi_lotin": "Al-Hujurat",
+    "nomi_arab": "الحُجُرَات",
+    "oyatlar_soni": 18,
+    "joyi": "Madaniy",
+    "tartib_raqami": 106,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, taxminan hijriy 9-yilda nozil bo'lgan. Ma'nosi 'Hujralar'. Musulmon jamiyatining ichki odob-axloq qoidalari: g'iybat qilmaslik, masxara lamaslik, taxminlarga asoslanmaslikni o'rgatadi."
+  },
+  {
+    "id": 50,
+    "nomi_lotin": "Qaf",
+    "nomi_arab": "ق",
+    "oyatlar_soni": 45,
+    "joyi": "Makkiy",
+    "tartib_raqami": 34,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Qayta tirilish, o'lim va hisob-kitob mavzulariga bag'ishlangan. Payg'ambarimiz bu surani juma xutbalarida tez-tez o'qir edilar."
+  },
+  {
+    "id": 51,
+    "nomi_lotin": "Adh-Dhariyat",
+    "nomi_arab": "الذَّارِيَات",
+    "oyatlar_soni": 60,
+    "joyi": "Makkiy",
+    "tartib_raqami": 67,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Surib ketuvchi shamollar'. Qiyomat, hisob-kitob va rizqning Allohdan ekanligi haqida so'z boradi."
+  },
+  {
+    "id": 52,
+    "nomi_lotin": "At-Tur",
+    "nomi_arab": "الطُّور",
+    "oyatlar_soni": 49,
+    "joyi": "Makkiy",
+    "tartib_raqami": 76,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Tur tog'i bilan qasam ichiladi. Qiyomat, jannat va do'zaxning dahshatli tasvirlari keltiriladi."
+  },
+  {
+    "id": 53,
+    "nomi_lotin": "An-Najm",
+    "nomi_arab": "النَّجْم",
+    "oyatlar_soni": 62,
+    "joyi": "Makkiy",
+    "tartib_raqami": 23,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Yulduz'. Ichida sajda oyati bor birinchi nozil bo'lgan sura. Payg'ambarimiz Me'roj voqeasi va Jabroilni o'zining asl suratida ko'rganlari zikr qilinadi."
+  },
+  {
+    "id": 54,
+    "nomi_lotin": "Al-Qamar",
+    "nomi_arab": "القَمَر",
+    "oyatlar_soni": 55,
+    "joyi": "Makkiy",
+    "tartib_raqami": 37,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Payg'ambarimiz mo'jizalari - oyning bo'linishi voqeasi bilan boshlanadi. Qiyomatning yaqinligi va o'tgan qavmlarning halokati haqida ogohlantiradi."
+  },
+  {
+    "id": 55,
+    "nomi_lotin": "Ar-Rahman",
+    "nomi_arab": "الرَّحْمٰن",
+    "oyatlar_soni": 78,
+    "joyi": "Aralash",
+    "tartib_raqami": 97,
+    "haqida": "**Nozil bo'lish davri:** Makkiy sura deb hisoblansa-da, Madaniy degan qarashlar ham bor. 'Qur'on kelini' deb ham ataladi. Unda Allohning insonlar va jinlarga bergan ko'plab ne'matlari sanalib, 'Bas, Rabbingizning qaysi ne'matlarini yolg'on deya olursiz?' oyati 31 marta takrorlanadi."
+  },
+  {
+    "id": 56,
+    "nomi_lotin": "Al-Waqi'ah",
+    "nomi_arab": "الوَاقِعَة",
+    "oyatlar_soni": 96,
+    "joyi": "Makkiy",
+    "tartib_raqami": 46,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Voqea' (ya'ni Qiyomat). Qiyomat kunida odamlar uch guruhga bo'linishi va ularning oqibatlari batafsil tasvirlanadi."
+  },
+  {
+    "id": 57,
+    "nomi_lotin": "Al-Hadid",
+    "nomi_arab": "الحَدِيد",
+    "oyatlar_soni": 29,
+    "joyi": "Madaniy",
+    "tartib_raqami": 94,
+    "haqida": "**Nozil bo'lish davri:** Madina davri. Ma'nosi 'Temir'. Allohning qudrati, boyligi va koinotni boshqarishi hamda Alloh yo'lida infoq-ehson qilishga da'vat etiladi."
+  },
+  {
+    "id": 58,
+    "nomi_lotin": "Al-Mujadila",
+    "nomi_arab": "المُجَادَلَة",
+    "oyatlar_soni": 22,
+    "joyi": "Madaniy",
+    "tartib_raqami": 105,
+    "haqida": "**Nozil bo'lish davri:** Madina davri. 'Munozara qiluvchi ayol' haqida nozil bo'lgan. Johiliyat davridagi 'zihor' (xotinini onasiga qiyoslash orqali taloq qilish) odatini bekor qiladi. Har bir oyatida 'Alloh' lafzi kelgan yagona sura."
+  },
+  {
+    "id": 59,
+    "nomi_lotin": "Al-Hashr",
+    "nomi_arab": "الحَشْر",
+    "oyatlar_soni": 24,
+    "joyi": "Madaniy",
+    "tartib_raqami": 101,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, hijriy 4-yilda, Banu Nazir yahudiy qabilasi Madinadan surgun qilinganidan keyin nozil bo'lgan. Ma'nosi 'Surgun', 'To'planish'. Allohning go'zal ismlari bilan yakunlanadi."
+  },
+  {
+    "id": 60,
+    "nomi_lotin": "Al-Mumtahanah",
+    "nomi_arab": "المُمْتَحَنَة",
+    "oyatlar_soni": 13,
+    "joyi": "Madaniy",
+    "tartib_raqami": 91,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, Hudaybiya sulhidan keyin (hijriy 6-yil) nozil bo'lgan. Ma'nosi 'Imtihon qilinuvchi (ayol)'. Makkadan hijrat qilib kelgan ayollarni imtihon qilish va musulmonlar bilan g'ayridinlar o'rtasidagi munosabatlar haqida so'z boradi."
+  },
+  {
+    "id": 61,
+    "nomi_lotin": "As-Saff",
+    "nomi_arab": "الصَّفّ",
+    "oyatlar_soni": 14,
+    "joyi": "Madaniy",
+    "tartib_raqami": 109,
+    "haqida": "**Nozil bo'lish davri:** Madina davri. Ma'nosi 'Saf'. So'z bilan amal birligiga da'vat qilinadi. Alloh yo'lida bir saf bo'lib kurashish fazilati zikr qilinadi."
+  },
+  {
+    "id": 62,
+    "nomi_lotin": "Al-Jumu'ah",
+    "nomi_arab": "الجُمُعَة",
+    "oyatlar_soni": 11,
+    "joyi": "Madaniy",
+    "tartib_raqami": 110,
+    "haqida": "**Nozil bo'lish davri:** Madina davri, hijratdan keyin. Ma'nosi 'Juma'. Juma namoziga da'vat etiladi va namoz paytida tijorat va boshqa ishlarni tark etishga buyuriladi."
+  },
+  {
+    "id": 63,
+    "nomi_lotin": "Al-Munafiqun",
+    "nomi_arab": "المُنَافِقُون",
+    "oyatlar_soni": 11,
+    "joyi": "Madaniy",
+    "tartib_raqami": 104,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, taxminan hijriy 5-yilda nozil bo'lgan. Ma'nosi 'Munofiqlar'. Madinadagi munofiqlarning xususiyatlari, yolg'onchiliklari va Islomga yetkazadigan zararlarini fosh qiladi."
+  },
+  {
+    "id": 64,
+    "nomi_lotin": "At-Taghabun",
+    "nomi_arab": "التَّغَابُن",
+    "oyatlar_soni": 18,
+    "joyi": "Madaniy",
+    "tartib_raqami": 108,
+    "haqida": "**Nozil bo'lish davri:** Ko'pchilik olimlar Madaniy deyishadi. Ma'nosi 'Bir-birini aldash kuni' (Qiyomat). Bu dunyo mol-mulki va farzandlarining fitna (sinov) ekanligi haqida ogohlantiradi."
+  },
+  {
+    "id": 65,
+    "nomi_lotin": "At-Talaq",
+    "nomi_arab": "الطَّلَاق",
+    "oyatlar_soni": 12,
+    "joyi": "Madaniy",
+    "tartib_raqami": 99,
+    "haqida": "**Nozil bo'lish davri:** Madina davri. Ma'nosi 'Taloq'. Taloq, idda va oilaviy ajrimlarga oid aniq qonun-qoidalarni belgilaydi."
+  },
+  {
+    "id": 66,
+    "nomi_lotin": "At-Tahrim",
+    "nomi_arab": "التَّحْرِيم",
+    "oyatlar_soni": 12,
+    "joyi": "Madaniy",
+    "tartib_raqami": 107,
+    "haqida": "**Nozil bo'lish davri:** Madina davrida, hijriy 7-yilda Payg'ambarimiz hayotlaridagi bir voqea sababli nozil bo'lgan. Ma'nosi 'Haram qilib olish'. Oila ichidagi munosabatlar va sirlarni saqlash haqida so'z boradi."
+  },
+  {
+    "id": 67,
+    "nomi_lotin": "Al-Mulk",
+    "nomi_arab": "المُلْك",
+    "oyatlar_soni": 30,
+    "joyi": "Makkiy",
+    "tartib_raqami": 77,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. Ma'nosi 'Mulk', 'Hukmronlik'. O'quvchisini qabr azobidan saqlashi rivoyat qilingan. Allohning qudrati va koinotdagi mukammal nizom haqida tafakkur qilishga undaydi."
+  },
+  {
+    "id": 68,
+    "nomi_lotin": "Al-Qalam",
+    "nomi_arab": "القَلَم",
+    "oyatlar_soni": 52,
+    "joyi": "Makkiy",
+    "tartib_raqami": 2,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. 'Fotiha' surasidan keyin ikkinchi nozil bo'lgan suralardan biri. 'Qalam' bilan qasam ichiladi. Payg'ambarimizning yuksak axloqlari madh etiladi va u zotga 'majnn' degan mushriklarga javob beriladi."
+  },
+  {
+    "id": 69,
+    "nomi_lotin": "Al-Haqqah",
+    "nomi_arab": "الحَاقَّة",
+    "oyatlar_soni": 52,
+    "joyi": "Makkiy",
+    "tartib_raqami": 78,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Aniq ro'y beruvchi' (Qiyomat). Qiyomat kunining dahshatlari va o'tgan qavmlarning halokati haqida so'z boradi."
+  },
+  {
+    "id": 70,
+    "nomi_lotin": "Al-Ma'arij",
+    "nomi_arab": "المَعَارِج",
+    "oyatlar_soni": 44,
+    "joyi": "Makkiy",
+    "tartib_raqami": 79,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Bosqichlar', 'Pillapoyalar'. Qiyomatning uzun kuni va kofirlarning achinarli ahvoli tasvirlanadi."
+  },
+  {
+    "id": 71,
+    "nomi_lotin": "Nuh",
+    "nomi_arab": "نُوح",
+    "oyatlar_soni": 28,
+    "joyi": "Makkiy",
+    "tartib_raqami": 71,
+    "haqida": "**Nozil bo'lish davri:** O'rta Makka davri. To'liq Nuh payg'ambarning o'z qavmini 950 yil davomida da'vat qilgani va uning duosi haqida hikoya qiladi."
+  },
+  {
+    "id": 72,
+    "nomi_lotin": "Al-Jinn",
+    "nomi_arab": "الجِنّ",
+    "oyatlar_soni": 28,
+    "joyi": "Makkiy",
+    "tartib_raqami": 40,
+    "haqida": "**Nozil bo'lish davri:** Kechki Makka davri. Payg'ambarimiz Toifdan qaytayotganlarida bir guruh jinlar Qur'on eshitib, iymon keltirgani haqida nozil bo'lgan."
+  },
+  {
+    "id": 73,
+    "nomi_lotin": "Al-Muzzammil",
+    "nomi_arab": "المُزَّمِّل",
+    "oyatlar_soni": 20,
+    "joyi": "Makkiy",
+    "tartib_raqami": 3,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri, ilk nozil bo'lgan suralardan. Ma'nosi 'O'ranib olgan zot'. Payg'ambarimizni kechalari ibodat qilishga (tahajjudga) buyuradi."
+  },
+  {
+    "id": 74,
+    "nomi_lotin": "Al-Muddaththir",
+    "nomi_arab": "المُدَّثِّر",
+    "oyatlar_soni": 56,
+    "joyi": "Makkiy",
+    "tartib_raqami": 4,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri, ilk nozil bo'lgan suralardan. Ma'nosi 'Kiyimlariga burkanib olgan zot'. Ochiq da'vatni boshlashga buyruq shu surada kelgan."
+  },
+  {
+    "id": 75,
+    "nomi_lotin": "Al-Qiyamah",
+    "nomi_arab": "القِيَامَة",
+    "oyatlar_soni": 40,
+    "joyi": "Makkiy",
+    "tartib_raqami": 31,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Qiyomat'. Sura to'lig'icha Qiyomat kuni, qayta tirilish va hisob-kitobning haqligiga bag'ishlangan."
+  },
+  {
+    "id": 76,
+    "nomi_lotin": "Al-Insan",
+    "nomi_arab": "الإِنْسَان",
+    "oyatlar_soni": 31,
+    "joyi": "Madaniy",
+    "tartib_raqami": 98,
+    "haqida": "**Nozil bo'lish davri:** Ko'pchilik olimlar uni Madaniy sura deb bilishadi. Ma'nosi 'Inson'. Yaxshilik qiluvchi, miskin, yetim va asirlarni taomlantiruvchi mo'minlarning jannatdagi mukofotlari go'zal tasvirlangan."
+  },
+  {
+    "id": 77,
+    "nomi_lotin": "Al-Mursalat",
+    "nomi_arab": "المُرْسَلَات",
+    "oyatlar_soni": 50,
+    "joyi": "Makkiy",
+    "tartib_raqami": 33,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Yuborilgan shamollar'. Qiyomatni inkor etuvchilarning achchiq oqibati haqida takror-takror ogohlantiriladi."
+  },
+  {
+    "id": 78,
+    "nomi_lotin": "An-Naba'",
+    "nomi_arab": "النَّبَأ",
+    "oyatlar_soni": 40,
+    "joyi": "Makkiy",
+    "tartib_raqami": 80,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Katta xabar' (Qiyomat). Kofirlarning qayta tirilish borasidagi shubhalariga javob beradi va Qiyomat kunini tasvirlaydi."
+  },
+  {
+    "id": 79,
+    "nomi_lotin": "An-Nazi'at",
+    "nomi_arab": "النَّازِعَات",
+    "oyatlar_soni": 46,
+    "joyi": "Makkiy",
+    "tartib_raqami": 81,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Jonlarni sug'urib oluvchilar' (farishtalar). Qiyomat dahshatlari va Muso qissasi orqali qayta tirilishga da'vat qiladi."
+  },
+  {
+    "id": 80,
+    "nomi_lotin": "Abasa",
+    "nomi_arab": "عَبَسَ",
+    "oyatlar_soni": 42,
+    "joyi": "Makkiy",
+    "tartib_raqami": 24,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Payg'ambarimiz Quraysh zodagonlariga da'vat qilayotganda, ularning oldiga ko'zi ojiz sahoba Abdulloh ibn Umm Maktum kelganida, Payg'ambarimiz biroz yuzlarini burishtirganlari haqida nozil bo'lgan. Ma'nosi 'Yuzini burishtirdi'."
+  },
+  {
+    "id": 81,
+    "nomi_lotin": "At-Takwir",
+    "nomi_arab": "التَّكْوِير",
+    "oyatlar_soni": 29,
+    "joyi": "Makkiy",
+    "tartib_raqami": 7,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'O'ralish'. Qiyomatning ilk bosqichlari (quyoshning o'ralishi, yulduzlarning sochilishi) yorqin tasvirlangan."
+  },
+  {
+    "id": 82,
+    "nomi_lotin": "Al-Infitar",
+    "nomi_arab": "الانفِطَار",
+    "oyatlar_soni": 19,
+    "joyi": "Makkiy",
+    "tartib_raqami": 82,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Yorilish'. Osmonning yorilishi bilan Qiyomatning dahshatlarini tasvirlaydi."
+  },
+  {
+    "id": 83,
+    "nomi_lotin": "Al-Mutaffifin",
+    "nomi_arab": "المُطَفِّفِين",
+    "oyatlar_soni": 36,
+    "joyi": "Makkiy",
+    "tartib_raqami": 86,
+    "haqida": "**Nozil bo'lish davri:** Eng oxirgi nozil bo'lgan Makkiy suralardan, ba'zi manbalarda hijrat paytida nozil bo'lgan deyiladi. Ma'nosi 'Tavozidan urib qoluvchilar'. Savdoda halollikka chaqiradi."
+  },
+  {
+    "id": 84,
+    "nomi_lotin": "Al-Inshiqaq",
+    "nomi_arab": "الانشِقَاق",
+    "oyatlar_soni": 25,
+    "joyi": "Makkiy",
+    "tartib_raqami": 83,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Yorilish'. Qiyomatda osmonning yorilishi va inson o'z amallariga yo'liqishi haqida so'z boradi."
+  },
+  {
+    "id": 85,
+    "nomi_lotin": "Al-Buruj",
+    "nomi_arab": "البروج",
+    "oyatlar_soni": 22,
+    "joyi": "Makkiy",
+    "tartib_raqami": 27,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Burjlar'. 'Ashobul Uxdud' (xandaq egalari) – o'z iymonlari uchun olovga tashlangan mo'minlar qissasi keltiriladi."
+  },
+  {
+    "id": 86,
+    "nomi_lotin": "At-Tariq",
+    "nomi_arab": "الطَّارِق",
+    "oyatlar_soni": 17,
+    "joyi": "Makkiy",
+    "tartib_raqami": 36,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Tungi keluvchi' (yorqin yulduz). Har bir jonning ustida kuzatuvchi borligi va insonning yaralishi haqida hikoya qiladi."
+  },
+  {
+    "id": 87,
+    "nomi_lotin": "Al-A'la",
+    "nomi_arab": "الْأَعْلَى",
+    "oyatlar_soni": 19,
+    "joyi": "Makkiy",
+    "tartib_raqami": 8,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Eng oliy'. Payg'ambarimiz bu surani juma va hayit namozlarida o'qishni yaxshi ko'rardilar. Allohga tasbeh aytishga buyuriladi."
+  },
+  {
+    "id": 88,
+    "nomi_lotin": "Al-Ghashiyah",
+    "nomi_arab": "الغَاشِيَة",
+    "oyatlar_soni": 26,
+    "joyi": "Makkiy",
+    "tartib_raqami": 68,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'O'rab oluvchi' (Qiyomat). Do'zax va jannat ahlining holati bir-biriga qiyoslab tasvirlanadi."
+  },
+  {
+    "id": 89,
+    "nomi_lotin": "Al-Fajr",
+    "nomi_arab": "الفَجْر",
+    "oyatlar_soni": 30,
+    "joyi": "Makkiy",
+    "tartib_raqami": 10,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Tong'. Insonning sinovga bo'lgan munosabati va Qiyomat kunidagi pushaymonlik haqida so'z boradi."
+  },
+  {
+    "id": 90,
+    "nomi_lotin": "Al-Balad",
+    "nomi_arab": "البلد",
+    "oyatlar_soni": 20,
+    "joyi": "Makkiy",
+    "tartib_raqami": 35,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Shahar' (Makka). Insonning mashaqqatda yaratilgani va qiyinchiliklarni yengib o'tishga chaqiriq bor."
+  },
+  {
+    "id": 91,
+    "nomi_lotin": "Ash-Shams",
+    "nomi_arab": "الشَّمْس",
+    "oyatlar_soni": 15,
+    "joyi": "Makkiy",
+    "tartib_raqami": 26,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Quyosh'. Koinotdagi ko'plab narsalar bilan qasam ichilib, nafsini poklagan kishi najot topishi aytiladi. Samud qavmining halokati misol qilinadi."
+  },
+  {
+    "id": 92,
+    "nomi_lotin": "Al-Layl",
+    "nomi_arab": "الليل",
+    "oyatlar_soni": 21,
+    "joyi": "Makkiy",
+    "tartib_raqami": 9,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Kecha'. Saxiy va baxil insonlarning yo'llari va oqibatlari bir-biriga qarama-qarshi qo'yiladi."
+  },
+  {
+    "id": 93,
+    "nomi_lotin": "Ad-Duha",
+    "nomi_arab": "الضحىٰ",
+    "oyatlar_soni": 11,
+    "joyi": "Makkiy",
+    "tartib_raqami": 11,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Bir muddat vahiy kelmay qolganda, Payg'ambarimizga tasalli sifatida nozil bo'lgan. Ma'nosi 'Choshgoh vaqti'. Alloh hech qachon u zotni tark etmagani eslatiladi."
+  },
+  {
+    "id": 94,
+    "nomi_lotin": "Ash-Sharh",
+    "nomi_arab": "الشَّرْح",
+    "oyatlar_soni": 8,
+    "joyi": "Makkiy",
+    "tartib_raqami": 12,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri, 'Zuho' surasidan keyin nozil bo'lgan. Ma'nosi 'Ochish', 'Kengaytirish'. Payg'ambarimizga berilgan ne'matlar eslatiladi va har bir qiyinchilik ortidan yengillik kelishi va'da qilinadi."
+  },
+  {
+    "id": 95,
+    "nomi_lotin": "At-Tin",
+    "nomi_arab": "التِّين",
+    "oyatlar_soni": 8,
+    "joyi": "Makkiy",
+    "tartib_raqami": 28,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. 'Anjir' va 'zaytun' bilan qasam ichiladi. Inson eng go'zal suratda yaratilgani, ammo keyin tubanlikka qaytarilishi (iymonsiz bo'lsa) aytiladi."
+  },
+  {
+    "id": 96,
+    "nomi_lotin": "Al-Alaq",
+    "nomi_arab": "العَلَق",
+    "oyatlar_soni": 19,
+    "joyi": "Makkiy",
+    "tartib_raqami": 1,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Birinchi 5 oyati Hiro g'orida nozil bo'lgan eng birinchi vahiy. Ma'nosi 'Laxta qon'. 'O'qi!' amri bilan boshlanadi. Qolgan qismi Abu Jahl Payg'ambarimizga ozor berganida nozil bo'lgan."
+  },
+  {
+    "id": 97,
+    "nomi_lotin": "Al-Qadr",
+    "nomi_arab": "الْقَدْر",
+    "oyatlar_soni": 5,
+    "joyi": "Makkiy",
+    "tartib_raqami": 25,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Qadr', 'Ulug'lik'. Qur'on nozil bo'lgan Qadr kechasining fazilatlari, uning ming oydan afzal ekani bayon qilinadi."
+  },
+  {
+    "id": 98,
+    "nomi_lotin": "Al-Bayyinah",
+    "nomi_arab": "الْبَيِّنَة",
+    "oyatlar_soni": 8,
+    "joyi": "Madaniy",
+    "tartib_raqami": 100,
+    "haqida": "**Nozil bo'lish davri:** Madina davri. Ma'nosi 'Aniq hujjat'. Payg'ambar kelishi bilan ahli kitob va mushriklarga hujjat kelgani, lekin shundan keyin ham ixtilofga berilganlari aytiladi."
+  },
+  {
+    "id": 99,
+    "nomi_lotin": "Az-Zalzalah",
+    "nomi_arab": "الزلزلة",
+    "oyatlar_soni": 8,
+    "joyi": "Aralash",
+    "tartib_raqami": 93,
+    "haqida": "**Nozil bo'lish davri:** Makkiy yoki Madaniy ekani borasida ixtilof bor. Ma'nosi 'Zilzila'. Qiyomat oldidan yer qattiq zilzilaga uchrashi va har kim zarra misqolicha yaxshilik yoki yomonligini ko'rishi haqida so'z boradi."
+  },
+  {
+    "id": 100,
+    "nomi_lotin": "Al-Adiyat",
+    "nomi_arab": "العَادِيَات",
+    "oyatlar_soni": 11,
+    "joyi": "Makkiy",
+    "tartib_raqami": 14,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Chopqir otlar'. Insonning noshukr va mol-dunyoga o'ch ekani aytiladi."
+  },
+  {
+    "id": 101,
+    "nomi_lotin": "Al-Qari'ah",
+    "nomi_arab": "الْقَارِعَة",
+    "oyatlar_soni": 11,
+    "joyi": "Makkiy",
+    "tartib_raqami": 30,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Qalbni qattiq qo'rquvga soluvchi' (Qiyomat). Qiyomat kuni, mezon va amallarning tortilishi haqida so'z yuritiladi."
+  },
+  {
+    "id": 102,
+    "nomi_lotin": "At-Takathur",
+    "nomi_arab": "التَّكَاثُر",
+    "oyatlar_soni": 8,
+    "joyi": "Makkiy",
+    "tartib_raqami": 16,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Ko'paytirishga berilish'. Odamlarni mol-dunyo va farzandlar ko'pligi bilan maqtanib, oxiratdan g'ofil qolishi qoralanadi."
+  },
+  {
+    "id": 103,
+    "nomi_lotin": "Al-Asr",
+    "nomi_arab": "العَصْر",
+    "oyatlar_soni": 3,
+    "joyi": "Makkiy",
+    "tartib_raqami": 13,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Asr', 'Vaqt'. Barcha inson zotining ziyon va baxtsizlikda ekanligi, faqat to'rt sifatga ega bo'lganlar (iymon, solih amal, haqqa va sabrga chaqirish) bundan mustasno ekani aytiladi."
+  },
+  {
+    "id": 104,
+    "nomi_lotin": "Al-Humazah",
+    "nomi_arab": "الْهُمَزَة",
+    "oyatlar_soni": 9,
+    "joyi": "Makkiy",
+    "tartib_raqami": 32,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'G'iybatchi'. Birovni masxara qiluvchi, g'iybatchi va mol to'plab, uni sanab yuruvchi kimsalarning do'zaxdagi achchiq azobi tasvirlanadi."
+  },
+  {
+    "id": 105,
+    "nomi_lotin": "Al-Fil",
+    "nomi_arab": "الْفِيل",
+    "oyatlar_soni": 5,
+    "joyi": "Makkiy",
+    "tartib_raqami": 19,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Fil'. Payg'ambarimiz tug'ilgan yili Yaman hokimi Abrahaning fil qo'shini bilan Ka'bani buzishga kelgani va Alloh ularni abobil qushlari orqali halok qilgani haqida hikoya qiladi."
+  },
+  {
+    "id": 106,
+    "nomi_lotin": "Quraysh",
+    "nomi_arab": "قُرَيْش",
+    "oyatlar_soni": 4,
+    "joyi": "Makkiy",
+    "tartib_raqami": 29,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Quraysh qabilasiga Alloh bergan ne'matlarni (savdo karvonlari xavfsizligi) eslatib, ularni Ka'ba Robbisi bo'lgan Allohga ibodat qilishga chaqiradi."
+  },
+  {
+    "id": 107,
+    "nomi_lotin": "Al-Ma'un",
+    "nomi_arab": "الْمَاعُون",
+    "oyatlar_soni": 7,
+    "joyi": "Makkiy",
+    "tartib_raqami": 17,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Ma'nosi 'Ro'zg'or buyumlari'. Dinni inkor etuvchilarning belgilari (yetimga qo'pollik, miskinni boqmaslik) va namozlariga beparvo bo'lgan riyokorlar qoralanadi."
+  },
+  {
+    "id": 108,
+    "nomi_lotin": "Al-Kawthar",
+    "nomi_arab": "الْكَوْثَر",
+    "oyatlar_soni": 3,
+    "joyi": "Makkiy",
+    "tartib_raqami": 15,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Payg'ambarimiz o'g'il farzandlari vafot etib, mushriklar u zotni 'abtar' (nasli qolmagan) deb masxara qilganlarida nozil bo'lgan. Qur'ondagi eng qisqa sura. Alloh Payg'ambarimizga jannatdagi Kavsar hovuzini va ko'p yaxshiliklarni bergani aytiladi."
+  },
+  {
+    "id": 109,
+    "nomi_lotin": "Al-Kafirun",
+    "nomi_arab": "الْكَافِرُون",
+    "oyatlar_soni": 6,
+    "joyi": "Makkiy",
+    "tartib_raqami": 18,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Quraysh mushriklari Payg'ambarimizga bir yil ularning butlariga, bir yil Allohga ibodat qilishni taklif qilganlarida nozil bo'lgan. Dinlar o'rtasida murosaga o'rin yo'qligini qat'iy bayon qiladi. 'Sizga o'z diningiz, menga o'z dinim'."
+  },
+  {
+    "id": 110,
+    "nomi_lotin": "An-Nasr",
+    "nomi_arab": "النَّصْر",
+    "oyatlar_soni": 3,
+    "joyi": "Madaniy",
+    "tartib_raqami": 114,
+    "haqida": "**Nozil bo'lish davri:** Eng oxirgi to'liq nozil bo'lgan sura. Haj-ul Vado'da (vidolashuv hajida) nozil bo'lgan. Payg'ambarimiz vafotlari yaqinlashganiga ishora bor. Ma'nosi 'Yordam', 'G'alaba'. Makka fathidan so'ng odamlar to'p-to'p bo'lib Islomga kirishi haqida aytiladi."
+  },
+  {
+    "id": 111,
+    "nomi_lotin": "Al-Masad",
+    "nomi_arab": "المَسَد",
+    "oyatlar_soni": 5,
+    "joyi": "Makkiy",
+    "tartib_raqami": 6,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Payg'ambarimizning amakilari Abu Lahab va uning xotini haqqida nozil bo'lgan. Ular Payg'ambarimizga qattiq dushmanlik qilishgan. Ma'nosi 'Pishiq tola'."
+  },
+  {
+    "id": 112,
+    "nomi_lotin": "Al-Ikhlas",
+    "nomi_arab": "الْإِخْلَاص",
+    "oyatlar_soni": 4,
+    "joyi": "Makkiy",
+    "tartib_raqami": 22,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. Mushriklar 'Rabbingni bizga sifatlab ber' deb so'raganlarida nozil bo'lgan. Ma'nosi 'Xolis qilish'. Qur'onning uchdan biriga teng deb aytiladi. Allohning yagonaligi, hech kimga muhtoj emasligi va tengi yo'qligini bayon qiladi."
+  },
+  {
+    "id": 113,
+    "nomi_lotin": "Al-Falaq",
+    "nomi_arab": "الْفَلَق",
+    "oyatlar_soni": 5,
+    "joyi": "Makkiy",
+    "tartib_raqami": 20,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. 'Nas' surasi bilan birga nozil bo'lgan ('Muavvizatayn' - ikki panoh so'rovchi suralar). Barcha yomonliklardan, hasadgo'y va sehrgarlarning yomonligidan panoh so'rashga o'rgatadi. Ma'nosi 'Tong'."
+  },
+  {
+    "id": 114,
+    "nomi_lotin": "An-Nas",
+    "nomi_arab": "النَّاس",
+    "oyatlar_soni": 6,
+    "joyi": "Makkiy",
+    "tartib_raqami": 21,
+    "haqida": "**Nozil bo'lish davri:** Erta Makka davri. 'Falaq' surasi bilan birga nozil bo'lgan. Jin va insonlardan bo'lgan vasvasachilarning yomonligidan panoh so'rashga o'rgatadi. Ma'nosi 'Odamlar'."
+  }
+]

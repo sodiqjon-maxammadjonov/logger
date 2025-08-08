@@ -21,12 +21,10 @@ dependencies:
   hive: ^2.2.3
   hive_flutter: ^1.1.0
 
-  # UI
   google_fonts: ^6.2.1
   flutter_svg: ^2.0.12
   cached_network_image: ^3.4.1
 
-  # Utils
   logger: ^2.4.0
   equatable: ^2.0.7
   dartz: ^0.10.1
